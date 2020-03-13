@@ -9,5 +9,5 @@ Level of administrative units:
 
 References:
 
-1. Geojson files of Germany: [isellsoap/deutschlandGeoJSON)](https://github.com/isellsoap/deutschlandGeoJSON)
+1. The Geojson files of Germany from [isellsoap/deutschlandGeoJSON)](https://github.com/isellsoap/deutschlandGeoJSON). Since the author is using [The Unlicense](https://github.com/isellsoap/deutschlandGeoJSON/blob/master/LICENSE.md), the geojson files of Germany will follow the same license.
 
