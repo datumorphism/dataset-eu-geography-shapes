@@ -4,6 +4,25 @@ contributors:
 - name: 'Datumorphism'
   github: 'datumorphism'
 data:
+- name: Geocenter of NUTS 3 in Italy in CSV Format
+  description: Longitude and latitude of provinces in Italy
+  path: dataset/it/centers/it_nuts_3.csv
+  format: csv
+  size: 459
+  updated_at: ''
+  fields:
+  - name: country
+    description: 'Alpha2 code of the country, DE'
+  - name: nuts_2
+    description: 'NUTS 2: regions in Italy'
+  - name: nuts_3
+    description: 'NUTS 3: provinces in Italy'
+  - name: nuts_3_abbr
+    description: 'abbreviations of provinces in Italy'
+  - name: latitude
+    description: 'latitude of the center of the province (NUTS 3)'
+  - name: longitude
+    description: 'longitude of the center of the province (NUTS 3)'
 - name: Geocenter of States in Germany in CSV Format
   description: Longitude and latitude of german states
   path: dataset/de/centers/de_states.csv
