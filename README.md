@@ -15,4 +15,4 @@ References:
 
 References:
 
-1. The COVID-19 records from PCM-DPC Italy: [pcm-dpc/COVID-19](https://github.com/pcm-dpc/COVID-19/blob/master/dati-json/dpc-covid19-ita-province.json
+1. The COVID-19 records from PCM-DPC Italy: [pcm-dpc/COVID-19](https://github.com/pcm-dpc/COVID-19/blob/master/dati-json/dpc-covid19-ita-province.json)
